@@ -14,7 +14,8 @@ import {
   SiFirebase,
   SiKotlin,
   SiSwift,
-  SiDocker
+  SiDocker,
+  SiPhp
 } from 'react-icons/si';
 import { FaJava } from 'react-icons/fa';
 import type { IconType } from 'react-icons';
@@ -28,6 +29,7 @@ export const TECHNOLOGIES: Technology[] = [
   { name: 'Python', icon: SiPython },
   { name: 'Java', icon: FaJava },
   { name: 'Node.js', icon: SiNodedotjs },
+  { name: 'PHP', icon: SiPhp },
   { name: 'PostgreSQL', icon: SiPostgresql },
   { name: 'MariaDB', icon: SiMariadb },
   { name: 'Linux', icon: SiLinux },
