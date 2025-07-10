@@ -29,7 +29,6 @@ export const TECHNOLOGIES: Technology[] = [
   { name: 'Python', icon: SiPython },
   { name: 'Java', icon: FaJava },
   { name: 'Node.js', icon: SiNodedotjs },
-  { name: 'PHP', icon: SiPhp },
   { name: 'PostgreSQL', icon: SiPostgresql },
   { name: 'MariaDB', icon: SiMariadb },
   { name: 'Linux', icon: SiLinux },
