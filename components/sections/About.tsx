@@ -10,13 +10,10 @@ export default function About() {
         <CardContent>
           <div className="text-gray-300 text-lg leading-relaxed space-y-4">
             <p>
-              Soy un desarrollador apasionado por la tecnología y la programación, con un enfoque definido en el desarrollo backend. Actualmente curso la carrera de Ingeniería de Sistemas, lo que me permite complementar mi formación académica con proyectos reales y experiencias prácticas.
+              Me enfoco en crear soluciones funcionales y sostenibles, cuidando la calidad del código y la estructura del software. Disfruto enfrentar desafíos técnicos que me permitan seguir creciendo y aportar valor real a cada proyecto.
             </p>
             <p>
-              Me especializo en el desarrollo de aplicaciones web y móviles, priorizando la calidad del código, la escalabilidad de la arquitectura y la aplicación de patrones de diseño como MVC y MVVM. Trabajo tanto con APIs REST como con GraphQL, adaptándome a las necesidades específicas de cada proyecto y buscando siempre una comunicación eficiente entre sistemas.
-            </p>
-            <p>
-              Las tecnologías y frameworks con las que más trabajo son Django, NestJS, Laravel y Spring Boot. Estoy en constante aprendizaje, explorando nuevas herramientas y enfoques que me permitan crecer como desarrollador. Me interesa construir soluciones funcionales, sostenibles y que realmente aporten valor.
+              Me interesa construir productos bien diseñados, eficientes y pensados para escalar, siempre manteniendo buenas prácticas y una comunicación efectiva entre sistemas.
             </p>
           </div>
         </CardContent>
