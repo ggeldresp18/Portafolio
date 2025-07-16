@@ -72,6 +72,18 @@ export const PROJECTS: Project[] = [
     repo_url: 'https://github.com/ggeldresp18/SurveyCraft-API',
     image: './survey_api.jpeg'
   },
+  {
+    title: 'Sitio Web de la Revista Paradigma',
+    description: 'Este repositorio contiene el desarrollo de la plataforma web oficial de la revista Paradigma. El proyecto está diseñado para ofrecer a los lectores y oyentes una experiencia de usuario moderna y accesible, centralizando todo nuestro contenido periodístico y episodios de podcast en un único lugar.',
+    technologies: ['Flask', 'Python', 'MariaDB'],
+    links: [
+      { icon: 'Github', label: 'GitHub' },
+      { icon: 'ExternalLink', label: 'Ver Demo' }
+    ],
+    live_url: 'https://youtube.com',
+    repo_url: 'https://github.com/ggeldresp18/ParadigmaPodcast',
+    image: './paradigma_podcast.jpeg'
+  },
 ];
 
 
