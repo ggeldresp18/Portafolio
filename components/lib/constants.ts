@@ -61,6 +61,18 @@ type Project = {
 
 export const PROJECTS: Project[] = [
   {
+    title: 'Sistema de Gestión de Capacitaciones',
+    description: 'Plataforma integral para administrar el ciclo completo de capacitaciones. Centraliza la gestión de sesiones (CRUD), registro de asistencia, materiales y evaluaciones. Utiliza una base de datos NoSQL para potenciar un dashboard de estadísticas y análisis de rendimiento.',
+    technologies: ['ExpressJS', 'NodeJS', 'TypeScript', 'React', 'PostgreSQL', 'InfluxDB'],
+    links: [
+      { icon: 'Github', label: 'GitHub' },
+      { icon: 'ExternalLink', label: 'Ver Demo' }
+    ],
+    live_url: 'https://youtube.com',
+    repo_url: 'https://github.com/ggeldresp18/SistemaDeCapacitaciones-CRUD',
+    image: './crud_capacitaciones.jpeg'
+  },
+  {
     title: 'SurveyCraft API - Sistema para Gestión de Encuestas',
     description: 'SurveyCraft API es una aplicación backend RESTful que permite crear, gestionar y responder encuestas de forma eficiente. Soporta preguntas múltiples por encuesta y almacenamiento de respuestas.',
     technologies: ['Spring Boot', 'Java', 'MariaDB'],
